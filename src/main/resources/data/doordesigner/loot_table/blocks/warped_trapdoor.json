@@ -1,0 +1,1 @@
+{"type":"minecraft:block","pools":[{"rolls":1,"condition":{"type":"minecraft:survives_explosion"},"entries":[{"type":"minecraft:item","name":"doordesigner:warped_trapdoor","modifier":{"type":"minecraft:copy_state","block":"doordesigner:warped_trapdoor","properties":["design","color"]}}]}]}
